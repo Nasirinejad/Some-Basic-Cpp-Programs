@@ -1,2 +1,1 @@
-# Some Basic C++ Programs
-C++ Tutorial Samples
+#C++ Tutorial Samples
