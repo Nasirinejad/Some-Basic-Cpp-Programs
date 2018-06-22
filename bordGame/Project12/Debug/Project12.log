@@ -1,0 +1,59 @@
+﻿Build started 24/06/2016 11:06:18 ب.ظ.
+     1>Project "C:\Users\Mars\documents\visual studio 2013\Projects\Project12\Project12\Project12.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(106): warning C4244: '=' : conversion from 'short' to 'char', possible loss of data
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(119): warning C4065: switch statement contains 'default' but no 'case' labels
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(120): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(153): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(181): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(243): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(244): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(245): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(246): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(247): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(248): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(249): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(250): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(251): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(252): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(253): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(338): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(358): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(362): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(366): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(370): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(374): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(390): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(627): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(630): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(633): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(636): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(639): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(660): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(667): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(674): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(681): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(688): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(695): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(702): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(709): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(715): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(772): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(775): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(778): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(781): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(784): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(761): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\game.h(141): warning C4715: 'game::validtotals' : not all control paths return a value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(240): warning C4715: 'view::selector' : not all control paths return a value
+     1>c:\users\mars\documents\visual studio 2013\projects\project12\project12\view.h(866): warning C4717: 'view::playgame' : recursive on all control paths, function will cause runtime stack overflow
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mars\documents\visual studio 2013\Projects\Project12\Debug\Project12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mars\documents\visual studio 2013\Projects\Project12\Debug\Project12.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mars\documents\visual studio 2013\Projects\Project12\Debug\Project12.lib" /MACHINE:X86 Debug\Source.obj
+     1>LINK : fatal error LNK1168: cannot open C:\Users\Mars\documents\visual studio 2013\Projects\Project12\Debug\Project12.exe for writing
+     1>Done Building Project "C:\Users\Mars\documents\visual studio 2013\Projects\Project12\Project12\Project12.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.01
